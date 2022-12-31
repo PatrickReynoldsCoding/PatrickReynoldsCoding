@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickReynoldsCoding&hide=stars&show_icons=true&theme=radical)](https://github.com/PatrickReynoldsCoding/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
