@@ -23,7 +23,7 @@
 </div>
 
 
-## :atom:My Stats
+## :atom: My Stats
 
 
 
@@ -34,7 +34,7 @@
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PatrickReynoldsCoding&hide=stars&show_icons=true&theme=radical" />
 </div>
   
- ## My Projects
+ ## :briefcase: My Projects
   
 <div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickReynoldsCoding&repo=pokemon-match&theme=radical" />
@@ -48,7 +48,7 @@
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical" />
 </div>
 
- ## My Collabirations
+ ## :handshake: My Collabirations
  
  - https://github.com/chowieuk/sweepstakes-app A world cup sweepstakes app with a GO backend. Complete with Authentication.
 
