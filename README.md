@@ -38,32 +38,15 @@
 <div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up&theme=radical" />   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=new-mern-test&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=react_todo_app&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=bank_tech_test&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical" />
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=new-mern-test&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=react_todo_app&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=bank_tech_test&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
