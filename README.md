@@ -31,6 +31,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 stats from https://github.com/anuraghazra/github-readme-stats
