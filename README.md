@@ -25,7 +25,7 @@
 
 ## :atom: My Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickreynoldscoding&repo=pokemon-match)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/PatrickReynoldsCoding/pokemon-match))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrickreynoldscoding&repo=pokemon-match)](https://github.com/PatrickReynoldsCoding/pokemon-match)
 
 
 
