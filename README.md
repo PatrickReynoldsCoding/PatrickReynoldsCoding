@@ -37,7 +37,7 @@
  ## My Projects
   
 <div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickReynoldsCoding&repo=pokemon-match&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=chowieuk&repo=sweepstakes-app&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up&theme=radical" />   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical" />
