@@ -48,7 +48,7 @@
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical" />
 </div>
 
- ## :handshake: My Collabirations
+ ## :handshake: My Collaborations
  
  - https://github.com/chowieuk/sweepstakes-app A world cup sweepstakes app with a GO backend. Complete with Authentication.
 
