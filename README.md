@@ -29,10 +29,10 @@
 
 
 
-<a div align="center" dir="auto" href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center" dir="auto" href="https://github.com/anuraghazra/github-readme-stats">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickReynoldsCoding&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PatrickReynoldsCoding&hide=stars&show_icons=true&theme=radical" />
-</a>
+</div>
   
   
 <a style="display: flex; justify-content: center;" href="https://github.com/anuraghazra/github-readme-stats">
