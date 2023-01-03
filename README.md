@@ -36,17 +36,17 @@
   
  ## :briefcase: My Projects
   
-<div align="center" dir="auto"  href="https://github.com/PatrickReynoldsCoding/pokemon-match">
+<a align="center" dir="auto"  href="https://github.com/PatrickReynoldsCoding/pokemon-match">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickReynoldsCoding&repo=pokemon-match&theme=radical" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical" />
+<!--   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical" />
 <!--   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=chowieuk&repo=sweepstakes-app&theme=radical" /> -->
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up&theme=radical" />   
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=new-mern-test&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=react_todo_app&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=bank_tech_test&theme=radical" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical" />
-</div>
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=socialGatheringBot&theme=radical" /> -->
+</a>
 
  ## :handshake: My Collaborations
  
