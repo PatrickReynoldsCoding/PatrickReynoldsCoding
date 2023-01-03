@@ -34,6 +34,7 @@
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PatrickReynoldsCoding&hide=stars&show_icons=true&theme=radical" />
 </div>
   
+ ## My Projects
   
 <div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical" />
