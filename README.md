@@ -36,7 +36,7 @@
   
  ## :briefcase: My Projects
   
-<div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center" dir="auto"  href="https://github.com/PatrickReynoldsCoding/pokemon-match">
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickReynoldsCoding&repo=pokemon-match&theme=radical" />
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical" />
 <!--   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=chowieuk&repo=sweepstakes-app&theme=radical" /> -->
