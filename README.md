@@ -25,7 +25,7 @@
 
 ## My Stats
 
-<div>
+<div style="display:flex;justify-content:center;">
 
 
 
