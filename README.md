@@ -49,7 +49,7 @@
 
  ## My Collabirations
  
- - A world cup sweepstakes app with a GO backend. Complete with Authentication.
+ - https://github.com/chowieuk/sweepstakes-app A world cup sweepstakes app with a GO backend. Complete with Authentication.
 
 
 
