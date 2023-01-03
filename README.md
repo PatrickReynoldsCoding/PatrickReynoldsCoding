@@ -37,10 +37,10 @@
  ## :briefcase: My Projects
   
 <div align="center" dir="auto">
-  <a  href="https://github.com/PatrickReynoldsCoding/pokemon-match">
+  <a href="https://github.com/PatrickReynoldsCoding/pokemon-match">
     <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickReynoldsCoding&repo=pokemon-match&theme=radical"      />
   </a>
-    <a  href="https://github.com/PatrickReynoldsCoding/the-fakebook>
+    <a href="https://github.com/PatrickReynoldsCoding/the-fakebook">
       <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=the-fakebook&theme=radical"        />
     </a>
 <!--   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=chowieuk&repo=sweepstakes-app&theme=radical" /> -->
