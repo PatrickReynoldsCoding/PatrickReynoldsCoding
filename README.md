@@ -35,10 +35,10 @@
 </div>
   
   
-<a style="display: flex; justify-content: center;" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical" />
-  <img align="center" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical" />
-</a>
+<div align="center" dir="auto"  href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pair-up-live&theme=radical" />
+</div>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickReynoldsCoding&repo=pokemon-match&theme=radical
